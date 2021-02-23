@@ -1,6 +1,6 @@
 # Small-Business-Website-UX-Research
 
-Download the PDF file and there are portfolio links to connect to Behance, Youtube and Interactive Prototype.
+Download the PDF file and there are portfolio links to connect to Behance, Youtube and, Interactive Prototype.
 
 ## Project Objectives:
 + The theory and practice of creating effective user interfaces for modern devices ranging from mobile phones to desktop displays.
